@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title>
+		idek
+	</title>
+	<style>
+	  body {
+            margin: 10 auto;
+            background-position: center;
+            background-size: contain;
+            padding-top: 200px;
+            
+
+
+        }
+    </style>
+    <link rel="icon" type="image/png" href="98a3f61aa5dc4e4c996ad3d2a61cc6fbTErRlX5rQV3i0JqH-0.png">
+</head>
+<body style="background-color:black;">
+	<center>
+<p style="color:white;">
+	guess who's birthday it is(press next)
+</p></center>
+<center>
+<button onclick="document.location='pg2.html'">next</button>
+</center>
+</body>
+</html>
+
